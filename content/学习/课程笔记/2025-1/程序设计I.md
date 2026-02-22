@@ -1,5 +1,5 @@
 ---
-title: 网安25秋程序设计I复习笔记及真题
+title: 程序设计I
 date: 2026-02-21
 description: 最基础的一集
 tags:
