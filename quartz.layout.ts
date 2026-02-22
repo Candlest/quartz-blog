@@ -5,7 +5,27 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.Comments({
+        provider: "giscus",
+        options: {
+          repo: "Candlest/candlest.github.io.old",
+          repoId: "R_kgDOJ_ICfw",
+          category: "Announcements",
+          categoryId: "DIC_kwDOJ_ICf84CYNFn",
+          mapping: "title",
+          strict: false,
+          reactionsEnabled: true,
+          inputPosition: "bottom",
+          lang: "zh-CN",
+        },
+      }),
+      condition: (page) =>
+        page.fileData.frontmatter?.comments === true ||
+        page.fileData.frontmatter?.comments === "true",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       Home: "https://candlest.cc",
