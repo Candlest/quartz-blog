@@ -1,11 +1,12 @@
 ---
-title: 中大转专业指南
-date: '2025-07-28'
+title: 在中大被调剂怎么转专业（知乎）
+date: 2025-07-28
 description: 写给后来者。
 tags:
-  - 学习
   - 转专业
   - 指南
+  - 复盘
+  - 大学
 draft: false
 permalink: /how_to_change_major_in_sysu
 comments: true

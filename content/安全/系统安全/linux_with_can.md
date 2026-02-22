@@ -1,11 +1,9 @@
 ---
 title: 车联网安全：CAN 总线初探
-date: '2025-08-14'
+date: 2025-08-14
 description: 为什么 PWN 和 车联网能连起来。
 tags:
-  - 安全
-  - 系统安全
-  - 入门
+  - 信息安全
 draft: false
 permalink: /car-can
 comments: true

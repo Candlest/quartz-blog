@@ -1,11 +1,11 @@
 ---
 title: XSWCTF 2025 题解
-date: '2025-11-27'
+date: 2025-11-27
 description: 我们的 CTF，究竟会变成什么样子？
 tags:
-  - 安全
   - CTF
   - 题解
+  - 信息安全
 draft: false
 permalink: /xswctf2025-wp
 comments: true

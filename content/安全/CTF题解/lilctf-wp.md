@@ -1,11 +1,11 @@
 ---
 title: LilCTF 2025 题解
-date: '2025-08-19'
+date: 2025-08-19
 description: 第一次也是最后一次 LilCTF。
 tags:
-  - 安全
   - CTF
   - 题解
+  - 信息安全
 draft: false
 permalink: /lilctf-wp
 comments: true
