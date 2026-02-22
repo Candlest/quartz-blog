@@ -3,6 +3,8 @@ title: 论 AI 亲和度
 date: 2026-02-22
 description:
 tags:
+  - AI
+  - Agent
 draft: false
 permalink: /ai-friendliness
 comments: true
