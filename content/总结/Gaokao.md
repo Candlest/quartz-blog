@@ -11,7 +11,7 @@ draft: false
 permalink: /gaokao
 comments: true
 ---
-
+![[indiehospital.png]]
 
 ## 高考后的反思
 

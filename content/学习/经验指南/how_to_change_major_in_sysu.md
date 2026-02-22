@@ -11,7 +11,7 @@ draft: false
 permalink: /how_to_change_major_in_sysu
 comments: true
 ---
-
+![寒招](home.jpg)
 本回答原载于知乎[^1]。
 
 > 被调剂到中山大学护理学了 ……怎么办?

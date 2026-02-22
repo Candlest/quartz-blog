@@ -10,7 +10,7 @@ draft: false
 permalink: /xswctf2025-wp
 comments: true
 ---
-
+![[XSWCTF2025.jpg]]
 ## 题解
 
 详见飞书文档：[XSWCTF 2025](https://candlest.feishu.cn/wiki/LY5mwWSRpiGBSNkFZaVcdlObnXb).
