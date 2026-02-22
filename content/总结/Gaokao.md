@@ -1,17 +1,17 @@
 ---
 title: 高考后与二次遴选
-date: '2024-10-21'
+date: 2024-10-21
 description: 此刻我是赌徒。
 tags:
   - 总结
   - 大学
   - 复盘
+  - 转专业
 draft: false
 permalink: /gaokao
 comments: true
 ---
 
-# 回望高考
 
 ## 高考后的反思
 

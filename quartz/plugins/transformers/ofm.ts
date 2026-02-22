@@ -656,6 +656,35 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         })
       }
 
+      plugins.push(() => {
+        return (tree: HtmlRoot) => {
+          visit(tree, "element", (node: Element) => {
+            if (node.tagName !== "p" || node.children.length !== 1) return
+
+            const firstChild = node.children[0]
+            if (firstChild.type !== "element" || firstChild.tagName !== "img") return
+
+            const alt = typeof firstChild.properties.alt === "string" ? firstChild.properties.alt.trim() : ""
+            if (!alt) return
+
+            node.tagName = "figure"
+            node.properties = {
+              ...(node.properties ?? {}),
+              className: ["image-with-caption"],
+            }
+            node.children = [
+              firstChild,
+              {
+                type: "element",
+                tagName: "figcaption",
+                properties: {},
+                children: [{ type: "text", value: alt }],
+              },
+            ]
+          })
+        }
+      })
+
       if (opts.enableCheckbox) {
         plugins.push(() => {
           return (tree: HtmlRoot, _file) => {

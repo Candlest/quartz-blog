@@ -13,8 +13,15 @@ comments: true
 
 # CHANGELOG
 
-记录了博客的迁移记录
+记录了博客的迁移记录。
 
+#### 2026-02-22
+
+参考朋友的[记录](https://timlin15.github.io/备忘录/使用quartz直接将obsidian库转为博客)，迁移到 Quartz。
+
+高强度使用 ai coding agent 的我意识到，AI 亲和性好的东西才是未来。
+
+我相信类似 obsidian-cli 的东西就是未来。
 #### 2025-12-01
 
 迁移到 Astro Paper，只需要加载速度就可以了。

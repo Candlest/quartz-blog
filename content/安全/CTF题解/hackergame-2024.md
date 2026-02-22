@@ -1,11 +1,11 @@
 ---
 title: Hackergame 2024 题解
-date: '2024-11-09'
+date: 2024-11-09
 description: 第一次打CTF类型的game，是特别的感觉。
 tags:
-  - 安全
   - CTF
   - 题解
+  - 信息安全
 draft: false
 permalink: /hkgame2024-wp
 comments: true

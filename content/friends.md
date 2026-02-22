@@ -8,21 +8,6 @@ permalink: /link
 comments: false
 ---
 
-## 欢迎交换友链
-
-通过邮件发送到 [candlest1112@proton.me](mailto:candlest1112@proton.me)。
-
-建议格式：
-
-```json
-{
-  "name": "网站名",
-  "avatar": "头像 URL",
-  "url": "网站地址",
-  "description": "一句话描述"
-}
-```
-
 ## 前辈们
 
 | 头像 | 名称 | 链接 | 简介 |
@@ -52,3 +37,18 @@ comments: false
 |---|---|---|---|
 | <img src="https://avatars.githubusercontent.com/u/53944618?s=128" alt="mike-unk" width="28" /> | mike-unk | [访问](https://www.cnblogs.com/mike-unk) | 排版大神 |
 | <img src="https://avatars.githubusercontent.com/u/55611737?s=128" alt="e7g" width="28" /> | e7g | [访问](https://e7g.github.io/) |  |
+
+## 欢迎交换友链
+
+通过邮件发送到 [candlest1112@proton.me](mailto:candlest1112@proton.me)。
+
+建议格式：
+
+```json
+{
+  "name": "网站名",
+  "avatar": "头像 URL",
+  "url": "网站地址",
+  "description": "一句话描述"
+}
+```
