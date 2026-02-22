@@ -18,7 +18,7 @@ comments: true
 
 - 便捷性不如 markdown
 
-- AI 亲和性上：markdown $\geq \LaTeX \geq$ typst.
+- AI 亲和性[^1]上：markdown $\geq \LaTeX \geq$ typst.
 
 ### 模板选用
 
@@ -52,7 +52,7 @@ tikz 是一个不错的选择，vibe coding 能够得到很不错的效果，只
 
 ##### 嵌入视频
 
-PostScript 给予了 PDF 文件强大的表达能力 <del>其实 pdf 里面可以塞虚拟机哦</del>[^1]，但是 $\LaTeX$ 去整这种花活其实不太适合而且也存在兼容性和安全性的问题[^2]。
+PostScript 给予了 PDF 文件强大的表达能力 <del>其实 pdf 里面可以塞虚拟机哦</del>[^2]，但是 $\LaTeX$ 去整这种花活其实不太适合而且也存在兼容性和安全性的问题[^3]。
 
 所以，一个推荐的解决方案是使用 `multimedia` 包对外部媒体进行引用。
 
@@ -126,6 +126,8 @@ typst.app，也就是官方平台。界面现代，免费协作。
 
 ---
 
-[^1]: [linuxpdf](https://github.com/ading2210/linuxpdf)
+[^1]: [[论 AI 亲和度]]
 
-[^2]: [Can PDFs have viruses?](https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html)
+[^2]: [linuxpdf](https://github.com/ading2210/linuxpdf)
+
+[^3]: [Can PDFs have viruses?](https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html)
