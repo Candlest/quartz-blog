@@ -1,11 +1,10 @@
 ---
 title: 博客 CHANGELOG
-date: '2025-11-27'
+date: 2025-11-27
 description: 孟母三迁？
 tags:
   - 工具
-  - 博客
-  - 更新记录
+  - DevOps
 draft: false
 permalink: /changelog
 comments: true

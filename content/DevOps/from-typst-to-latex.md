@@ -1,11 +1,10 @@
 ---
 title: 排版工具链：Markdown、Typst、LaTeX
-date: '2025-10-03'
+date: 2025-10-03
 description: 尺有所长，寸有所短。
 tags:
-  - 工具
   - 排版
-  - 经验
+  - DevOps
 draft: false
 permalink: /from-typst-to-latex
 comments: true
