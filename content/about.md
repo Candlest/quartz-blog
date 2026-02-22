@@ -8,7 +8,7 @@ permalink: /about
 comments: false
 ---
 
-[![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-candlest.cc-FFB7C5?style=flat-square&logo=Pelican&logoColor=white)](https://blog.candlest.cc)
+![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-candlest.cc-FFB7C5?style=flat-square&logo=Pelican&logoColor=white)
 ![中山大学-网络空间安全](https://img.shields.io/badge/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6-%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8-6A2162?style=flat-square&logo=curriculum&logoColor=white)
 ![城市-广州/深圳](https://img.shields.io/badge/%E5%9F%8E%E5%B8%82-%E5%B9%BF%E5%B7%9E%20%2F%20%E6%B7%B1%E5%9C%B3-A1C9F2?style=flat-square&logo=googlemaps&logoColor=white)
 

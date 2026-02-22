@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-description: 朋友们和相关项目
+description: 朋友们
 tags:
   - 友链
 draft: false
@@ -52,10 +52,3 @@ comments: false
 |---|---|---|---|
 | <img src="https://avatars.githubusercontent.com/u/53944618?s=128" alt="mike-unk" width="28" /> | mike-unk | [访问](https://www.cnblogs.com/mike-unk) | 排版大神 |
 | <img src="https://avatars.githubusercontent.com/u/55611737?s=128" alt="e7g" width="28" /> | e7g | [访问](https://e7g.github.io/) |  |
-
-## Project
-
-| 头像 | 名称 | 链接 | 简介 |
-|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/16488866?s=200&v=4&s=128" alt="MSC" width="28" /> | MSC | [访问](https://github.com/sysumsc) | 中山大学 AI 技术协会，原微软学生俱乐部、互联网开源与技术协会。 |
-| <img src="https://arch.icekylin.online/images/hero.svg" alt="archlinux 简明指南" width="28" /> | archlinux 简明指南 | [访问](https://arch.icekylin.online/) | 或许，我一辈子都不会忘记 Arch Linux 吧。 |

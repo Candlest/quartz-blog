@@ -9,4 +9,5 @@ comments: true
 欢迎来到 Candlest 的 Quartz 站点。
 
 - [关于我](/about)
-- [友情链接](/link)
+- [朋友](friends.md) | [组织](organization.md)
+- [[blog-moving]]
