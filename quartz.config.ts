@@ -7,7 +7,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "cloudflare",
+      token: "27a384c203b7491aa6d3896ce3ec5907",
+    },
     locale: "zh-CN",
     baseUrl: "blog.candlest.cc",
     ignorePatterns: ["private", "templates", ".obsidian"],

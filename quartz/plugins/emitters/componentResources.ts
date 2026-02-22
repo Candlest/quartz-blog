@@ -123,6 +123,18 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
 
       document.head.appendChild(plausibleScript);
     `)
+  } else if (cfg.analytics?.provider === "cloudflare") {
+    componentResources.afterDOMLoaded.push(`
+      const cloudflareAnalyticsScript = document.createElement("script");
+      cloudflareAnalyticsScript.src = "${cfg.analytics.scriptSrc ?? "https://static.cloudflareinsights.com/beacon.min.js"}";
+      cloudflareAnalyticsScript.defer = true;
+      cloudflareAnalyticsScript.setAttribute(
+        "data-cf-beacon",
+        '{"token":"${cfg.analytics.token}","spa":true}',
+      );
+
+      document.head.appendChild(cloudflareAnalyticsScript);
+    `)
   } else if (cfg.analytics?.provider === "umami") {
     componentResources.afterDOMLoaded.push(`
       const umamiScript = document.createElement("script");

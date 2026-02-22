@@ -15,6 +15,11 @@ export type Analytics =
       tagId: string
     }
   | {
+      provider: "cloudflare"
+      token: string
+      scriptSrc?: string
+    }
+  | {
       provider: "umami"
       websiteId: string
       host?: string
