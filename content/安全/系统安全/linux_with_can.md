@@ -4,6 +4,7 @@ date: 2025-08-14
 description: 为什么 PWN 和 车联网能连起来。
 tags:
   - 信息安全
+  - linux
 draft: false
 permalink: /car-can
 comments: true
