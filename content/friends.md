@@ -5,7 +5,7 @@ tags:
   - 友链
 draft: false
 permalink: /link
-comments: false
+comments: true
 ---
 
 ## 前辈们
@@ -40,7 +40,7 @@ comments: false
 
 ## 欢迎交换友链
 
-通过邮件发送到 [candlest1112@proton.me](mailto:candlest1112@proton.me)。
+通过邮件发送到 [candlest1112@proton.me](mailto:candlest1112@proton.me)，也可以在这个页面下评论！
 
 建议格式：
 

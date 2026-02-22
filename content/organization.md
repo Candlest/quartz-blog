@@ -3,7 +3,7 @@ title: 组织/项目
 description: 荣幸参与的组织/项目
 tags: []
 draft: false
-comments: true
+comments: false
 ---
 
 荣幸参与的组织/项目：

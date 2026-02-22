@@ -19,14 +19,14 @@ comments: false
 - 开发：Rust、Go、Vue.js、模组（C#、JS）
 - AI 技术：VLA、agent × kernel、数据生成
 
-![skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,rust,go,vue,cs,js,py,pytorch&theme=light)
+![](https://skillicons.dev/icons?i=linux,docker,kubernetes,rust,go,vue,cs,js,py,pytorch&theme=light)
 
 ## 技术背景
 
 - 工程构建：2013-2024，Qt、WinForms、CEF、Linux
 - 历史项目：大学前探索、个人工具、GUI 小组件
 
-![legacy-skills](https://skillicons.dev/icons?i=cpp,dotnet,qt,windows)
+![](https://skillicons.dev/icons?i=cpp,dotnet,qt,windows)
 
 ## 写作与社交
 
