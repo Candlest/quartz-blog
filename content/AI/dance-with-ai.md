@@ -3,10 +3,8 @@ title: 与 AI 共舞
 date: 2025-08-15
 description: 没有回头路了。
 tags:
-  - 总结
-  - 大学
-  - 学期总结
-  - 转专业
+  - 随笔
+  - AI
 draft: false
 permalink: /dance-with-ai
 comments: true
