@@ -9,3 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content-link
+
+# Ignore everything in content except index.md
+content/**
+!content/index.md
