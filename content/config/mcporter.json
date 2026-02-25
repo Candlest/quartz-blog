@@ -1,0 +1,41 @@
+{
+  "mcpServers": {
+    "drawio": {
+      "command": [
+        "/Users/candlest/.local/share/pnpm-global/next-ai-drawio-mcp"
+      ]
+    },
+    "MiniMax": {
+      "command": [
+        "/Users/candlest/.local/share/mise/shims/uvx",
+        "minimax-coding-plan-mcp",
+        "-y"
+      ]
+    },
+    "paper-search-mcp": {
+      "command": [
+        "/Users/candlest/dev/ai-tools/mcp-servers/.venv/bin/python",
+        "-m",
+        "paper_search_mcp.server"
+      ]
+    },
+    "chrome-devtools": {
+      "command": [
+        "npx",
+        "-y",
+        "chrome-devtools-mcp@latest",
+        "--isolated=true",
+        "--headless=false",
+        "--no-usage-statistics"
+      ]
+    },
+    "context7": {
+      "command": [
+        "npx",
+        "-y",
+        "@upstash/context7-mcp"
+      ]
+    }
+  },
+  "imports": []
+}
