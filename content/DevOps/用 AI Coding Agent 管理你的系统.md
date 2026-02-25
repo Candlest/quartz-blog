@@ -22,6 +22,8 @@ $$
 
 ## 使用 OpenCode/Pi Agent 管理你的系统
 
+用什么 Agent 比较好？参考 [[Agent 编码工具大横评]]
+
 在 `AGENT.md` 中写好约束条件，遇到问题从 runbook 里面找，如果没有解决方案的话，在解决问题后就把解决方法沉淀在 runbook 里面。
 
 比如：
