@@ -31,7 +31,7 @@ comments: true
 | <img src="https://gravatar.loli.net/avatar/b740a96fe85051e07ed3fb9aa86d5202?d=mp&v=1.5.1" alt="洛仙璃の幻梦" width="28" />  | 洛仙璃の幻梦             | [访问](https://mzwing.eu.org)                    | 如光似幻，如影随形                   |
 | <img src="https://avatars.githubusercontent.com/u/32411702?s=128" alt="stevezxc" width="28" />                        | stevezxc           | [访问](https://stevezxc.github.io/)              | 07 年的 Z 哥                   |
 | <img src="https://i1.vh.gs/2025/11/26/6925f4d720e9e.png" alt="lbyxiaolizi" width="28" />                              | lbyxiaolizi's blog | [访问](https://blog.vh.gs)                       | 喵喵喵喵喵                       |
-
+| <img src="https://www.zt2misay2.cn/img/linksrc/misay.jpg" width="128" /> | misay | [访问](https://www.zt2misay2.cn) | 哈基米 |
 ## 中学同学
 
 | 头像 | 名称 | 链接 | 简介 |
